@@ -1,0 +1,6 @@
+{
+  "name": "AQUASENSE – Intelligent Water Quality Monitoring System",
+  "description": "AI-powered IoT smart water quality monitoring and predictive maintenance dashboard with real-time ESP32 sensor tracking, automated water screening, and filter health analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
